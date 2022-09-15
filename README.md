@@ -26,7 +26,7 @@
 
 ## About
 
-**This is a page to explain more about my current and previous projects; however I would like to add more than my career info and talk about my daily life as well! **
+**This is a page to explain more about my current and previous projects; however I would like to add more than my career info and talk about my daily life as well .**
 
 ## Features
 
