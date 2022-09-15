@@ -26,7 +26,7 @@
 
 ## About
 
-**Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate theme is designed to get rolling immediately. Install it, configure it, tweak it, push it.**
+**This is a page to explain more about my current and previous projects; however I would like to add more than my career info and talk about my daily life as well! **
 
 ## Features
 
