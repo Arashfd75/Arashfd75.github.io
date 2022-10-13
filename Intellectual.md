@@ -2,7 +2,7 @@
 title: Elements
 feature_text: |
   A demo of Markdown and HTML includes
-feature_image: "https://freeimage.host/i/Z0TBPs"
+feature_image: "https://iili.io/Z0TBPs.webp"
 excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
