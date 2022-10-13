@@ -1,7 +1,7 @@
 ---
 title: Intellectual skills
 feature_text: |
-feature_image: "https://iili.io/Z0VZ22.jpg"
+feature_image: "https://iili.io/Z0hvdQ.jpg"
 excerpt: ""
 aside: true
 ---
