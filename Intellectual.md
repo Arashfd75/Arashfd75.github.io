@@ -6,10 +6,12 @@ excerpt: ""
 aside: true
 ---
 
-<!-- # Heading 1
+<!-- # Heading 1 -->
 
-## Heading 2
-
+## Team Work: 
+### Robotic team member - Research team member
+In highscool, I was a member of soccer robots team, with two of my friends. Each of us was responsible mainly for one part of the robot(software, electronics, mechanics) and as a result, teamwork was an essential part of our job. In addition to doing our tasks, we all gave our suggestions to other fields.
+<!-- 
 ### Heading 3
 
 #### Heading 4
