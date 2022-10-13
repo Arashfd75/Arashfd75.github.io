@@ -1,13 +1,12 @@
 ---
-title: Elements
+title: Intellectual skills
 feature_text: |
-  A demo of Markdown and HTML includes
-feature_image: "https://iili.io/Z00U37.png"
-excerpt: "A demo of Markdown and HTML includes"
+feature_image: "https://iili.io/Z0VZ22.jpg"
+excerpt: ""
 aside: true
 ---
 
-# Heading 1
+<!-- # Heading 1
 
 ## Heading 2
 
@@ -141,4 +140,4 @@ blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
 {% include figure.html image="https://picsum.photos/600/800?image=894" caption="Left aligned image" position="left" width="300" height="800" %}
 
 {% include figure.html image="https://picsum.photos/1600/800?image=894" alt="Image with just alt text" %}{% endraw %}
-```
+``` -->
