@@ -11,7 +11,7 @@ aside: false
 ### Team Work: 
 #### Robotic team member - Research team member
 In highscool, I was a member of soccer robots team, with two of my friends. Each of us was responsible mainly for one part of the robot(software, electronics, mechanics) and as a result, teamwork was an essential part of our job. In addition to doing our tasks, we all gave our suggestions to other fields.
-
+Also, in Masters, I had a publication with Dr. Shahim Vedaei in which we could publish a new paper based on my previous work.
 {% include figure.html image="https://www.robocup.org/system/sub_leagues/images/000/000/018/list/jrsoccer.png" caption="soccer robots"  width="300" height="800" %}
 
 
@@ -20,6 +20,8 @@ In highscool, I was a member of soccer robots team, with two of my friends. Each
 ### Problem Solving:
 #### Working on half-finished projects: Soilcam project - Bachelor’s thesis
 Not sure to say if I was lucky or not!, but I did two important projects in previous years which havn't been started by me. Doing These type of projects can be challenging as I needed to first understand the previous design and then find the problems and solve them. This task becomes more complicated when there is no documentation or access to the previous developers and designers. Hopefully I was successful in both cases.
+
+{% include figure.html image="https://iili.io/ZMFsrQ.jpg" caption="soccer robots"  width="960" height="1280" %}
 
 
 ### Quick-fix solutions: 
