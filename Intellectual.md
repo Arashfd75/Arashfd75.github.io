@@ -35,6 +35,11 @@ In the first year of my electrical engineering bachelors, I was helping some fri
 #### TinyML:
 Starting MSc, I was looking for a novel idea. Then I come across tinyML field. At first, I had no idea about the field and didn't have much experience. So, I started searching about the field, finding the proper hardware, good courses, and the like. Finally, with attending the courses and learning new concept of this area I could finish my MSc in this field. This boosted my confidence that I can learn new things quickly and effectively use them in projects.
 
+{% include figure.html image="https://cdn.shopify.com/s/files/1/0015/7571/4865/products/2494_1_580x.png?v=1597250666" caption="TinyML hardware" position="right" width="300" height="800" %}
+
+{% include figure.html image="https://sensiml.com/wp-content/uploads/tensorflow-lite-logo-social.png" caption="TensorFlow lite micro" position="left" width="300" height="800" %}
+
+
 <!-- ### Heading 3
 
 #### Heading 4
