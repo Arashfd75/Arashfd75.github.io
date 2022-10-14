@@ -22,7 +22,9 @@ Not sure to say if I was lucky or not!, but I did two important projects in prev
 When it comes to quick-fixes I am confident to say " I have something to say!". 
 In the first year of my electrical engineering bachelors, I was helping some frineds in a dominoes competition. Almost 20 minutes before their presentation, a designed circuit responsible for shooting a ball at some dominoes failed! The circuit was quite complicated and we had no time for debugging. Although I was only in the second semester, based on What I had learned, I could simplify the circuit so that It can shoot the ball for only one time (which was sufficient) and it worked!
 
-
+### Eager to Learn: Tiny machine learning
+#### TinyML:
+Starting MSc, I was looking for a novel idea. Then I come across tinyML field. At first, I had no idea about the field and didn't have much experience. So, I started searching about the field, finding the proper hardware, good courses, and the like. Finally, with attending the courses and learning new concept of this area I could finish my MSc in this field. This boosted my confidence that I can learn new things quickly and effectively use them in projects.
 <!-- ### Heading 3
 
 #### Heading 4
