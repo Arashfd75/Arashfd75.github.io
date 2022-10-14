@@ -14,12 +14,13 @@ In highscool, I was a member of soccer robots team, with two of my friends. Each
 
 ### Problem Solving:
 #### Working on half-finished projects: Soilcam project - Bachelor’s thesis
-
 Not sure to say if I was lucky or not!, but I did two important projects in previous years which havn't been started by me. Doing These type of projects can be challenging as I needed to first understand the previous design and then find the problems and solve them. This task becomes more complicated when there is no documentation or access to the previous developers and designers. Hopefully I was successful in both cases.
 
 
 ### Quick-fix solutions: 
 #### Dominoes games!
+When it comes to quick-fixes I am confident to say " I have something to say!". 
+In the first year of my electrical engineering bachelors, I was helping some frineds in a dominoes competition. Almost 20 minutes before their presentation, a designed circuit responsible for shooting a ball at some dominoes failed! The circuit was quite complicated and we had no time for debugging. Although I was only in the second semester, based on What I had learned, I could simplify the circuit so that It can shoot the ball for only one time (which was sufficient) and it worked!
 
 
 <!-- ### Heading 3
