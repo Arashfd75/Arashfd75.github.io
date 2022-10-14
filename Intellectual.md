@@ -25,6 +25,7 @@ In the first year of my electrical engineering bachelors, I was helping some fri
 ### Eager to Learn: Tiny machine learning
 #### TinyML:
 Starting MSc, I was looking for a novel idea. Then I come across tinyML field. At first, I had no idea about the field and didn't have much experience. So, I started searching about the field, finding the proper hardware, good courses, and the like. Finally, with attending the courses and learning new concept of this area I could finish my MSc in this field. This boosted my confidence that I can learn new things quickly and effectively use them in projects.
+
 <!-- ### Heading 3
 
 #### Heading 4
