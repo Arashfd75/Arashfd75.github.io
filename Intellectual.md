@@ -3,7 +3,7 @@ title: Intellectual skills
 feature_text: |
 feature_image: "https://iili.io/Z0hvdQ.jpg"
 excerpt: ""
-aside: true
+aside: false
 ---
 
 
@@ -11,6 +11,11 @@ aside: true
 ### Team Work: 
 #### Robotic team member - Research team member
 In highscool, I was a member of soccer robots team, with two of my friends. Each of us was responsible mainly for one part of the robot(software, electronics, mechanics) and as a result, teamwork was an essential part of our job. In addition to doing our tasks, we all gave our suggestions to other fields.
+
+{% include figure.html image="https://www.robocup.org/system/sub_leagues/images/000/000/018/list/jrsoccer.png" caption="soccer robots"  width="300" height="800" %}
+
+
+
 
 ### Problem Solving:
 #### Working on half-finished projects: Soilcam project - Bachelor’s thesis
