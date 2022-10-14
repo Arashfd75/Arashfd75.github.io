@@ -8,9 +8,14 @@ aside: true
 
 <!-- # Heading 1 -->
 
-## Team Work: 
-### Robotic team member - Research team member
+### Team Work: 
+#### Robotic team member - Research team member
 In highscool, I was a member of soccer robots team, with two of my friends. Each of us was responsible mainly for one part of the robot(software, electronics, mechanics) and as a result, teamwork was an essential part of our job. In addition to doing our tasks, we all gave our suggestions to other fields.
+
+### Problem Solving
+#### Working on half-finished projects: Soilcam project - Bachelor’s thesis
+
+Not sure to say if I was lucky or not!, but I did two important projects in previous years which havn't been started by me. Doing These type of projects can be challenging as I needed to first understand the previous design and then find the problems and solve them. This task becomes more complicated when there is no documentation or access to the previous developers and designers. Hopefully I was successful in both cases.
 <!-- 
 ### Heading 3
 
