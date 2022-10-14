@@ -45,10 +45,10 @@ author: ArashFarahdel # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
   name: Arash Farahdel # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://twitter.com/DavidDarnes
-    - https://www.facebook.com/daviddarnes
-    - https://www.linkedin.com/in/daviddarnes
-    - https://github.com/daviddarnes
+    - https://twitter.com/arash_fd75
+    - https://www.facebook.com/arash.farahdel.9
+    - https://www.linkedin.com/in/arashfd
+    - https://github.com/arashfd75
 # markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
 # commonmark:
   # options: ["SMART", "FOOTNOTES"]
