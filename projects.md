@@ -1,6 +1,6 @@
 ---
 title: Projects
-layout: categories
+# layout: categories
 excerpt: "Category index"
 aside: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: 
 feature_text: |
-  ## Let's know more about Arash!
+  ## Let's know more about Arash! 
 
 feature_image: "https://lucknowrecreation.com/wp-content/uploads/2018/04/Monthly-Website-Header-background-e1522931579825.jpg"
 excerpt: "2.Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
