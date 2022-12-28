@@ -12,7 +12,9 @@ aside: false
 #### Robotic team member - Research team member
 In highscool, I was a member of soccer robots team, with two of my friends. Each of us was responsible mainly for one part of the robot(software, electronics, mechanics) and as a result, teamwork was an essential part of our job. In addition to doing our tasks, we all gave our suggestions to other fields.
 Also, in Masters, I had a publication with Dr. Shahim Vedaei in which we could publish a new paper based on my previous work.
-{% include figure.html image="https://www.robocup.org/system/sub_leagues/images/000/000/018/list/jrsoccer.png" caption="soccer robots"  width="300" height="800" %}
+<!-- {% include figure.html image="https://www.robocup.org/system/sub_leagues/images/000/000/018/list/jrsoccer.png" caption="soccer robots"  width="300" height="800" %} -->
+{% include figure.html image="IranProtest22-v1.html" caption="graph"  width="300" height="800" %}
+
 
 
 
