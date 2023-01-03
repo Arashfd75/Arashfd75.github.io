@@ -16,7 +16,7 @@ Some of important notes:
 4. US Dollar rate is shown on the same figure. 
 5. The result are illustrated using Power BI.
 6. The queries are stored in pandas dataframe and are set to always get information from the first date of the protests until now.
-{% include figure.html image="https://github.com/Arashfd75/Arashfd75.github.io/blob/main/assets/images/IranProtests29Dec.jpg?raw=true" caption="Iran Protest infographic" %}
+<!-- {% include figure.html image="https://github.com/Arashfd75/Arashfd75.github.io/blob/main/assets/images/IranProtests29Dec.jpg?raw=true" caption="Iran Protest infographic" %} -->
 
 
 ### Developing a wildfire classification deep learning algorithm for an extra low-power microcontroller for drone application
