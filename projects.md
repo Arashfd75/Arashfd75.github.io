@@ -19,3 +19,11 @@ Some of important notes:
 {% include figure.html image="https://github.com/Arashfd75/Arashfd75.github.io/blob/main/assets/images/IranProtests29Dec.jpg?raw=true" caption="Iran Protest infographic" %}
 
 
+### Developing a wildfire classification deep learning algorithm for an extra low-power microcontroller for drone application
+Unmanned Aerial Vehicles (UAVs) have always been faced with power management challenges. Managing power consumption becomes critical, especially in surveillance applications where the longer flight time results in wider coverage and a cheaper solution.
+While most current studies focus on utilizing new models for improving event detection without considering the power constraints, our design's first priority is our platform's power efficiency. Implementing an algorithm on a portable device with minimal access to power supply sources requires special hardware and software considerations.
+{% include figure.html image="https://github.com/Arashfd75/Arashfd75.github.io/blob/main/assets/images/overview.pdf?raw=true" caption="Overview of wildfire detection" %}
+
+
+
+
