@@ -24,6 +24,6 @@ Unmanned Aerial Vehicles (UAVs) have always been faced with power management cha
 While most current studies focus on utilizing new models for improving event detection without considering the power constraints, our design's first priority is our platform's power efficiency. Implementing an algorithm on a portable device with minimal access to power supply sources requires special hardware and software considerations.
 {% include figure.html image="https://github.com/Arashfd75/Arashfd75.github.io/blob/main/assets/images/overview.pdf?raw=true" caption="Overview of wildfire detection" %}
 
-
+### Image colorization deep learning algorithm for recolorization of surveillance images
 
 
