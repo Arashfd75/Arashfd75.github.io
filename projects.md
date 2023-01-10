@@ -4,8 +4,6 @@ title: Projects
 excerpt: "Category index"
 aside: true
 ---
-# Contents
-
 1. Twitter API and Iran Protest Analysis
 2. Wildfire Classification on Embedded Systems
 3. Image Colorizationalgorithm for recolorization of surveillance images
