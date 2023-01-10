@@ -9,7 +9,7 @@ aside: true
 3. Image Colorizationalgorithm for recolorization of surveillance images
 4. Volleyball Game!
 {:toc}
-### Iran Protests Analysis : 
+### Iran Protests Analysis
 On September 13, 22-year-old Jina “Mahsa” Amini was arrested by Iran's morality police for “improperly” wearing her hijab, and according to her family and local media, severely beaten. She died three days later while still in police custody. In this project, I analysed twitter activity around this matter.
 
 Some of important notes:
@@ -23,12 +23,12 @@ Some of important notes:
 {% include figure.html image="https://github.com/Arashfd75/Arashfd75.github.io/blob/main/assets/images/IranProtests29Dec.jpg?raw=true" caption="Iran Protest infographic" %}
 
 
-### Developing a wildfire classification deep learning algorithm for an extra low-power microcontroller for drone application
+### Wildfire classification model for low-power embedded systems
 Unmanned Aerial Vehicles (UAVs) have always been faced with power management challenges. Managing power consumption becomes critical, especially in surveillance applications where the longer flight time results in wider coverage and a cheaper solution.
 While most current studies focus on utilizing new models for improving event detection without considering the power constraints, our design's first priority is our platform's power efficiency. Implementing an algorithm on a portable device with minimal access to power supply sources requires special hardware and software considerations.
 {% include figure.html image="https://github.com/Arashfd75/Arashfd75.github.io/blob/main/assets/images/overview.jpg?raw=true" caption="Overview of wildfire detection" %}
 
-### Image colorization deep learning algorithm for recolorization of surveillance images
+### Image colorization
 When the UAV detects the defined event, a sample image is sent to
 the server for validation. Afterwards, if the server validates the drone decision, the drone, which can be a
 UAV, starts sending a colored image accompanied by a group of N grayscale images. Then, in the server,
@@ -36,7 +36,6 @@ the grayscale images will be colorized using a convolution neural network traine
 {% include figure.html image="https://github.com/Arashfd75/Arashfd75.github.io/blob/main/assets/images/colorization_pictures.png?raw=true" caption="Image colorization" %}
 
 ### Volleyball game!
-#### What is this project about?
 There were 24 people inculding me who wanted play volleyball. As you may know, volleyball is played in teams of 6. So, there was an argue over the number of teams:
 1. 3 teams of 8 (2 substitue players)
 2. 4 teams of 6 (No substitutuions)
