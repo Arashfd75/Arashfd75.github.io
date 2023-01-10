@@ -4,9 +4,11 @@ title: Projects
 excerpt: "Category index"
 aside: true
 ---
-# Content
-1. [Twitter API and Iran Protest Analysis](projects#Iran Protests Analysis)
-2. [Wildfire Classification on Embedded Systems](projects#Developing a wildfire classification deep learning algorithm for an extra low-power microcontroller for drone application)
+# Contents
+
+1. [Twitter API and Iran Protest Analysis](Arashfd75.github.io/projects###Iran Protests Analysis)
+2. [Wildfire Classification on Embedded Systems](Arashfd75.github.io/projects###Developing a wildfire classification deep learning algorithm for an extra low-power microcontroller for drone application)
+3. [Image Colorization](Arashfd75.github.io/projects###Image colorization deep learning algorithm for recolorization of surveillance images)
 
 ### Iran Protests Analysis : 
 On September 13, 22-year-old Jina “Mahsa” Amini was arrested by Iran's morality police for “improperly” wearing her hijab, and according to her family and local media, severely beaten. She died three days later while still in police custody. In this project, I analysed twitter activity around this matter.
