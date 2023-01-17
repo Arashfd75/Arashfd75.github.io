@@ -12,7 +12,7 @@ aside: true
 ### Iran Protests Analysis
 <p style='text-align: justify;'>   
 On September 13, 22-year-old Jina “Mahsa” Amini was arrested by Iran's morality police for “improperly” wearing her hijab, and according to her family and local media, severely beaten. She died three days later while still in police custody. In this project, I analysed twitter activity around this matter.
-
+</p>
 Some of important notes:
 
 1. I used Twitter API V2. 
@@ -21,7 +21,7 @@ Some of important notes:
 4. US Dollar rate is shown on the same figure. 
 5. The result are illustrated using Power BI.
 6. The queries are stored in pandas dataframe and are set to always get information from the first date of the protests until now.
-</p>
+
 {% include figure.html image="https://github.com/Arashfd75/Arashfd75.github.io/blob/main/assets/images/IranProtests29Dec.jpg?raw=true" caption="Iran Protest infographic" %}
 
 
@@ -43,9 +43,10 @@ the grayscale images will be colorized using a convolution neural network traine
 ### Volleyball game!
 <p style='text-align: justify;'>   
 There were 24 people inculding me who wanted play volleyball. As you may know, volleyball is played in teams of 6. So, there was an argue over the number of teams:
+ </p>
 1. 3 teams of 8 (2 substitue players)
 2. 4 teams of 6 (No substitutuions)
-
+<p style='text-align: justify;'> 
 At the beginning, mose people were thinking that the first option (3 teams) would be more efficient and they suggested to do the substitutions each 6 points. However, I was of the opinion that I may not be fair for all players, so I decided to do some simulations and visualizations.
 {% include figure.html image="https://github.com/Arashfd75/Volleyball_game_poll/blob/main/images/histAll.png?raw=true" caption="Histogram of points played by all players in a game. (first team reach 15 wins)" %}
 
