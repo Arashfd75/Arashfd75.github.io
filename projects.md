@@ -40,6 +40,13 @@ the grayscale images will be colorized using a convolution neural network traine
 {% include figure.html image="https://github.com/Arashfd75/Arashfd75.github.io/blob/main/assets/images/colorization_pictures.png?raw=true" caption="Image colorization" %}
 </p>
 ---
+### Twitter Trends  Dashboard
+<p style='text-align: justify;'>
+In this project, I designed a user interface based on Django and Dash-Plotly for my twitter application. Users in this web application can insert the hashtag they are looking for in addition to the time interval. Then thier request will be processed and a figure will be plotted. Using the Plotly interactive plots, users are able select different parts of the output figure based on their interest. The user inputs are handled using the callback functions in the application backend. The next step is to deploy this tool which is in process now.
+{% include figure.html image="https://github.com/Arashfd75/Arashfd75.github.io/blob/main/assets/images/djangoWeb.png?raw=true" caption="Twitter Trends Plotter Dashboard" %}
+ </p>
+
+---
 ### Volleyball game!
 <p style='text-align: justify;'>   
 There were 24 people inculding me who wanted play volleyball. As you may know, volleyball is played in teams of 6. So, there was an argue over the number of teams:
