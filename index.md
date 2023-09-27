@@ -1,10 +1,10 @@
 ---
 title: 
 feature_text: |
-  ## Hi There! I Am Arash - A Data Scientist 
+  ## Hi There! I Am Arash - An Embedded Systems Engineer 
 
 # feature_image: "https://lucknowrecreation.com/wp-content/uploads/2018/04/Monthly-Website-Header-background-e1522931579825.jpg"
-feature_image: "https://github.com/Arashfd75/Arashfd75.github.io/blob/main/assets/images/banner1.png?raw=true"
+feature_image: "https://github.com/Arashfd75/Arashfd75.github.io/blob/main/assets/images/banner2.png?raw=true"
 excerpt: "This is Arash's webpage where he explains more about his previous experiences"
 ---
 

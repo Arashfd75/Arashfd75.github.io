@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Embedded Systems Projects 
 # layout: categories
 excerpt: "Category index"
 aside: true

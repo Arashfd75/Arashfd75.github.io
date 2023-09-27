@@ -128,8 +128,11 @@ navigation_header:
   url: /Intellectual/
 # - title: Blog
 #   url: /blog/
-- title: Projects
-  url: /projects/
+- title: Embedded Systems Projects
+  url: /embedprojects/
+- title: Data Analysis Projects
+url: /daprojects/
+
 # - title: Search
 #   url: /search/
 # - title: Fork Alembic
